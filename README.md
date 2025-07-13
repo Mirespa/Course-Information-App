@@ -1,8 +1,20 @@
-# React + Vite
+# Course Information App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite web application that displays course details in a clean and structured interface.
 
-Currently, two official plugins are available:
+## Features
+- View course details including name, parts, and exercises
+- Organized structure using reusable React components
+- Fast build and dev environment using Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to run
+1. Install dependencies
+```
+npm install
+```
+2. Run the development server
+```
+npm run dev
+```
+3. Open your browser at http://localhost:5173 to view the app.
+
